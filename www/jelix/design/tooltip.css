@@ -1,0 +1,13 @@
+/* tooltip styles */
+
+
+div#tooltip {
+   position:absolute;
+   visibility:hidden;
+   z-index:100;
+   background-color:#FFEEC7;
+   border:1px solid black;
+   padding:0.2em;
+   font-size:0.8em;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRvb2x0aXAuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLG9CQUFvQjs7O0FBR3BCO0dBQ0csa0JBQWtCO0dBQ2xCLGtCQUFrQjtHQUNsQixZQUFZO0dBQ1oseUJBQXlCO0dBQ3pCLHVCQUF1QjtHQUN2QixjQUFjO0dBQ2QsZ0JBQWdCO0NBQ2xCIiwiZmlsZSI6InRvb2x0aXAuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLyogdG9vbHRpcCBzdHlsZXMgKi9cclxuXHJcblxyXG5kaXYjdG9vbHRpcCB7XHJcbiAgIHBvc2l0aW9uOmFic29sdXRlO1xyXG4gICB2aXNpYmlsaXR5OmhpZGRlbjtcclxuICAgei1pbmRleDoxMDA7XHJcbiAgIGJhY2tncm91bmQtY29sb3I6I0ZGRUVDNztcclxuICAgYm9yZGVyOjFweCBzb2xpZCBibGFjaztcclxuICAgcGFkZGluZzowLjJlbTtcclxuICAgZm9udC1zaXplOjAuOGVtO1xyXG59XHJcblxyXG4iXX0= */

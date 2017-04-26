@@ -1,0 +1,13 @@
+logs/*
+!.gitkeep
+node_modules/
+bower_components/
+vendor/
+tmp
+.DS_Store
+*.[oa]
+*~
+*.txt
+*.pdf
+*.min.js
+*.min.css

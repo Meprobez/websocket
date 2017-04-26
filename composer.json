@@ -1,0 +1,21 @@
+{
+    "name": "websocket/php",
+    "description": "websocket php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Victor Yurievich",
+            "email": "meprobez@gmail.com"
+        }
+    ],
+     "autoload": {
+        "psr-0": {
+            "MyApp": ""
+        }
+    },
+    "require": {
+        "cboden/ratchet": "0.3.*",
+        "pear/mail":"v1.4.1",
+        "react/zmq": "v0.3.0"
+    }
+}
